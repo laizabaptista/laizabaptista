@@ -5,15 +5,15 @@
 ### Bem-vindo ao meu perfil do GitHub! 
 
 ## Sobre mim 👩🏻
-- 📚 Formada em Sistemas de Informação pela Universidade Estácio (2021), atualmente estou cursando pós em Engenharia de Software na UTFPR - Universidade Tecnológica federal do Paraná
-- 💼 Atualmente trabalho como Desenvolvedora de Software na <a href="https://github.com/intelie">Intelie</a>
+- 📚 Formada em Sistemas de Informação pela Universidade Estácio (2021) e pós-graduada em Engenharia de Software pela UTFPR - Universidade Tecnológica Federal do Paraná (2024).
+- 💼 Atualmente trabalho como Desenvolvedora de Software Pleno na <a href="https://br.linkedin.com/company/globo">Globo</a>
 - ⚡ Fun fact: Sou uma Rockeira que vai todo domingo na igreja e viciada em jogos do Mário.
 - 📫 Você pode me encontrar em:
   
 [![DIO](https://img.shields.io/badge/Meu_perfil_da_DIO-9F966D?style=for-the-badge)](https://www.dio.me/users/baptistalaiza_1) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=DF836E)](https://www.linkedin.com/in/laizabaptista/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&color=9F966D)](mailto:laizabaptista@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=DF836E)](https://www.instagram.com/laizabap/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=DF836E)](https://www.instagram.com/laiza.baptista/)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
